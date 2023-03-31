@@ -1,0 +1,25 @@
+h4.double {border-style: double;}
+body { background-image: url("https://cdn.wallpapersafari.com/51/78/dltnIv.jpg");}
+
+
+div {
+top: 500px;
+right: 0px;
+width: 0px;
+height: 100px;
+}
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
